@@ -7,5 +7,5 @@
 
 -[View my beamer/LaTeX Slides](hw10.pdf)
 
--[View my HTML-based Slides](CV.html)
+-[View my HTML-based Slides](https://HilalYazar.github.io/CV.html)
 
