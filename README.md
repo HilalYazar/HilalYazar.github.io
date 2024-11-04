@@ -9,6 +9,6 @@ Here is my CV
 
 ## My Slides
 
-[View my Slides](https://hilalyazar.github.io/HilalYazar.github.io/hw10.pdf)
-[View my Slides](https://hilalyazar.github.io/HilalYazar.github.io/CV.html)
+[View my beamer/LaTeX Slides](https://hilalyazar.github.io/HilalYazar.github.io/hw10.pdf)
+[View my HTML-based Slides](https://hilalyazar.github.io/HilalYazar.github.io/CV.html)
 
