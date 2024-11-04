@@ -10,6 +10,6 @@ Here is my CV
 
 ## My Slides
 
-[View my beamer/LaTeX Slides](hw10.pdf)
-[View my HTML-based Slides](https://hilalyazar.github.io/HilalYazar.github.io/CV.html)
+-[View my beamer/LaTeX Slides](hw10.pdf)
+-[View my HTML-based Slides](https://hilalyazar.github.io/HilalYazar.github.io/CV.html)
 
