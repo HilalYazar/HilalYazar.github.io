@@ -1,11 +1,6 @@
-# HilalYazar.github.io
-
-My github pages site
-
-##Here is my CV
+# Here is my CV
 
 [Download my CV](HilalCV.pdf)
-
 
 
 ## My Slides
