@@ -1,9 +1,9 @@
-# HilalYazarGunes.io
+# HilalYazar.io
 My github pages site
 
 Here is my CV
 
-[Download my CV](HilalCV.pdf)
+[Download my CV](https://hilalyazar.github.io/HilalYazar.github.io/HilalCV.pdf)
 
 
 
