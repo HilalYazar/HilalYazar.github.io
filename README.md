@@ -2,7 +2,7 @@
 
 My github pages site
 
-Here is my CV
+##Here is my CV
 
 [Download my CV](HilalCV.pdf)
 
@@ -12,5 +12,5 @@ Here is my CV
 
 -[View my beamer/LaTeX Slides](hw10.pdf)
 
--[View my HTML-based Slides](https://hilalyazar.github.io/HilalYazar.github.io/CV.html)
+-[View my HTML-based Slides](CV.html)
 
