@@ -1,14 +1,15 @@
-# HilalYazar.io
+# HilalYazar.github.io
+
 My github pages site
 
 Here is my CV
 
-[Download my CV](https://hilalyazar.github.io/HilalYazar.github.io/HilalCV.pdf)
+[Download my CV](HilalCV.pdf)
 
 
 
 ## My Slides
 
-[View my beamer/LaTeX Slides](https://hilalyazar.github.io/HilalYazar.github.io/hw10.pdf)
-[View my HTML-based Slides](https://hilalyazar.github.io/HilalYazar.github.io/CV.html)
+[View my beamer/LaTeX Slides](hw10.pdf)
+[View my HTML-based Slides](CV.html)
 
